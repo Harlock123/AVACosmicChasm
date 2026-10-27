@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVACosmicChasm/AVACosmicChasm.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVACosmicChasm.Tests/AVACosmicChasm.Tests.csproj" />
+  </Folder>
+</Solution>
